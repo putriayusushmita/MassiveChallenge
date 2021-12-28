@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/drawable-v24/back.xml" value="0.2203125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/drawable-v24/save.xml" value="0.2203125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/drawable-v24/shapebar.xml" value="0.2203125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_alpukat2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_anggur2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_apel2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_bluberry2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_buah_naga2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_delima2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_jambu_air2.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_jambubiji2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_jeruk2.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_kurma2.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_lemon2.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_nanas2.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_papaya2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_pisang2.xml" value="0.18" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_strawberry2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/content_jambu_air2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/MyApplication8/app/src/main/res/menu/menu_navigation.xml" value="1.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

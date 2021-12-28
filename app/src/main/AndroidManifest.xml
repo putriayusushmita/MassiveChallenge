@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".BluberryActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".LemonActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".JerukActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".AlpukatActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".DelimaActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".KurmaActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".JambuAirActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_jambu_air2"
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
+        <activity
+            android:name=".JambubijiActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".NanasActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".PapayaActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".AnggurActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".BuahNagaActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".ApelActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".StrawberryActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".PisangActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
